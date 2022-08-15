@@ -6,6 +6,8 @@
 
 <i>//TODO: This will definitely break in 2042</i>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axotion&show_icons=true&theme=radical)
+
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -36,8 +38,6 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axotion&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=axotion&theme=dark)](https://git.io/streak-stats)
 
 
 </div>
