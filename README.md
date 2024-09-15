@@ -11,6 +11,16 @@
     <a href="https://www.linkedin.com/pulse/why-you-should-start-profiling-production-kamil-fronczak-bwdof/">
     </a>
     <div style="margin-left: 20px; flex: 1;">
+      <strong style="font-size: 1.1em;"><a href="https://www.linkedin.com/pulse/how-solve-dual-write-problem-nestjs-kamil-fronczak-hsbtc" style="color: #0073b1; text-decoration: none;">How to solve dual write problem in NestJS?
+</a></strong>
+      <p style="margin: 5px 0 0;">Learn how to solve dual write problem in NestJS.</p>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: center;">
+    <a href="https://www.linkedin.com/pulse/why-you-should-start-profiling-production-kamil-fronczak-bwdof/">
+    </a>
+    <div style="margin-left: 20px; flex: 1;">
       <strong style="font-size: 1.1em;"><a href="https://www.linkedin.com/pulse/why-you-should-start-profiling-production-kamil-fronczak-bwdof/" style="color: #0073b1; text-decoration: none;">Why You Should Start Profiling in Production</a></strong>
       <p style="margin: 5px 0 0;">Discover the importance of profiling in production environments and how it can help you optimize your application's performance.</p>
     </div>
