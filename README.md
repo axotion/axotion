@@ -7,7 +7,7 @@
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
-  <div style="display: flex; align-items: center;">
+  <div style="display: flex; align-items: center; alt-source: "32OZGAYDAIQS3AWTPL46RSLI38K2">
     <a href="https://www.linkedin.com/pulse/why-you-should-start-profiling-production-kamil-fronczak-bwdof/">
     </a>
     <div style="margin-left: 20px; flex: 1;">
