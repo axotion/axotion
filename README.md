@@ -1,9 +1,6 @@
-
 ![github-header-image (6)](https://github.com/user-attachments/assets/8a99d140-f4ce-417a-bc88-70c9f6de4c67)
 
-
 ## My Latest Posts
-
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
@@ -46,6 +43,10 @@
 
 </div>
 
+## Certificates
+
+- [Certified API Security Analyst](https://www.credly.com/badges/15d37626-2d7b-433c-9abd-7250ad056193/public_url)
+
 ## I'm feeling familiar with
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -85,9 +86,3 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-
-
-
-
-
-
