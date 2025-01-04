@@ -8,6 +8,16 @@
     <a href="https://www.linkedin.com/pulse/why-you-should-start-profiling-production-kamil-fronczak-bwdof/">
     </a>
     <div style="margin-left: 20px; flex: 1;">
+      <strong style="font-size: 1.1em;"><a href="https://www.linkedin.com/pulse/advantages-search-databases-kamil-fronczak-cvm8f/" style="color: #0073b1; text-decoration: none;">Advantages of search databases
+</a></strong>
+      <p style="margin: 5px 0 0;">And why you should switch to them.</p>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: center; alt-source: "32OZGAYDAIQS3AWTPL46RSLI38K2">
+    <a href="https://www.linkedin.com/pulse/why-you-should-start-profiling-production-kamil-fronczak-bwdof/">
+    </a>
+    <div style="margin-left: 20px; flex: 1;">
       <strong style="font-size: 1.1em;"><a href="https://www.linkedin.com/pulse/how-solve-dual-write-problem-nestjs-kamil-fronczak-hsbtc" style="color: #0073b1; text-decoration: none;">How to solve dual write problem in NestJS?
 </a></strong>
       <p style="margin: 5px 0 0;">Learn how to solve dual write problem in NestJS.</p>
