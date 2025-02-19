@@ -56,6 +56,7 @@
 ## Certificates
 
 - [Certified API Security Analyst](https://www.credly.com/badges/15d37626-2d7b-433c-9abd-7250ad056193/public_url)
+- [AI Agents Fundamentals](https://cdn-lfs-us-1.hf.co/repos/f2/34/f2344151f60f6027c436821dc61cf3f27a46435de57df8df50ad02b5acca7c07/c9070792330783b71f381cb7882a307e6fd267b233552e03fb88f1d65241518a?response-content-disposition=inline%3B+filename*%3DUTF-8%27%272025-02-19.png%3B+filename%3D%222025-02-19.png%22%3B&response-content-type=image%2Fpng&Expires=1740007172&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MDAwNzE3Mn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmhmLmNvL3JlcG9zL2YyLzM0L2YyMzQ0MTUxZjYwZjYwMjdjNDM2ODIxZGM2MWNmM2YyN2E0NjQzNWRlNTdkZjhkZjUwYWQwMmI1YWNjYTdjMDcvYzkwNzA3OTIzMzA3ODNiNzFmMzgxY2I3ODgyYTMwN2U2ZmQyNjdiMjMzNTUyZTAzZmI4OGYxZDY1MjQxNTE4YT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSomcmVzcG9uc2UtY29udGVudC10eXBlPSoifV19&Signature=TYph-6IKeftmMCaMyHsqXdXX4yZjAi9mSXmVLhQ4Z7cNtD8YNKNxdUrxZ4KRFBjZyLvzXvsM-OdLO87w8RAdkn5J-kNlgC7FQ14Q-wQj3dLaxNAe4KvbIaU41RNpalZiiKvyqGcWCy83gHwdQR1Qh0oFtlOj0M9mDIROnBtFdDRGpetXVnK45IRkLkXHXWdVdyWUCHoxd%7E027ZupEdryYoM4tBdwzZX4C%7EmPyQ7uWnATkJsqAhi333HupyGexm1lv-nh2TNSsSnWETq6zzU4ITBLHAyqIRtqB1inofejKNcZSftjqfJwSOu-lTIUeacxHXbxeI%7Et4woXmVotSTiZuQ__&Key-Pair-Id=K24J24Z295AEI9)
 
 ## I'm feeling familiar with
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
