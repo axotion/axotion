@@ -57,6 +57,7 @@
 
 - [Certified API Security Analyst](https://www.credly.com/badges/15d37626-2d7b-433c-9abd-7250ad056193/public_url)
 - [AI Agents Fundamentals](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/axotion/2025-02-19.png)
+- [AIDevs 3 Reloaded](https://credsverse.com/credentials/4d9f344c-aca2-4e91-a5e7-2d52b6125fc3)
 
 ## I'm feeling familiar with
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
