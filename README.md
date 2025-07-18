@@ -4,6 +4,17 @@
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
+
+ <div style="display: flex; align-items: center; alt-source: "32OZGAYDAIQS3AWTPL46RSLI38K2">
+    <a href="https://blog.axotion.dev/posts/hidden-validation-security-risk-a-validation-story/">
+    </a>
+    <div style="margin-left: 20px; flex: 1;">
+      <strong style="font-size: 1.1em;"><a href="https://www.linkedin.com/pulse/advantages-search-databases-kamil-fronczak-cvm8f/" style="color: #0073b1; text-decoration: none;">The Hidden Security Risk
+</a></strong>
+      <p style="margin: 5px 0 0;">A Validation Story.</p>
+    </div>
+  </div>
+
   <div style="display: flex; align-items: center; alt-source: "32OZGAYDAIQS3AWTPL46RSLI38K2">
     <a href="https://www.linkedin.com/pulse/why-you-should-start-profiling-production-kamil-fronczak-bwdof/">
     </a>
